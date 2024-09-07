@@ -1,0 +1,6 @@
+model: legion 5 pro
+ram:160Gb
+graphics:RTX 3060
+storage:1tb ssd
+brand:lenovo
+os:windows 11

@@ -1,0 +1,4 @@
+brand:toshiba
+model:ideapad
+ram:4Gb
+os:windows
